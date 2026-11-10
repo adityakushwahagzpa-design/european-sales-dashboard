@@ -16,6 +16,7 @@ An interactive Excel dashboard on EU Superstore orders, **2015–2018: 10,000 or
 
 ## Files
 - `European_Sales_Dashboard.xlsx`
+- `European_Sales_Dashboard.pdf`
 
 ## Tools
 MS Excel (SUMIFS, COUNTIFS, named ranges, data validation, charts)
